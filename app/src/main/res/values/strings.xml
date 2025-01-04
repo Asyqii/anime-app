@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">AnimeLens</string>
+    <!--    <string name="app_name">AnimeLens</string>-->
+    <string name="description">Description</string>
+
+    <string name="anime_name">Judul Anime</string>
+    <string name="desc">Description</string>
+    <string name="total_episode">Total Episode :  </string>
+
+    <string-array name="data_title">
+
+        <item>One Piece</item>
+        <item>One Punch Man</item>
+        <item>Shingeki No Kyojin</item>
+        <item>Demon Slayer: Kimetsu no Yaiba</item>
+        <item>Boruto</item>
+        <item>My Hero Academia</item>
+        <item>Naruto Shippuden</item>
+        <item>Dragon Ball</item>
+        <item>Hunter x Hunter</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Death Note</item>
+        <item>Jujutsu Kaisen</item>
+
+    </string-array>
+
+    <string name="profile_icon_desc">Profile</string>
+    <string name="my_name">Ahmad Suyuti Syauqi</string>
+    <string name="my_email">ahmadsuyutisyauqi@gmail.com</string>
+    <string name="animelens">AnimeLens.</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cover_op2</item>
+        <item>@drawable/opm</item>
+        <item>@drawable/shingeki</item>
+        <item>@drawable/demon_slayer</item>
+        <item>@drawable/boruto</item>
+        <item>@drawable/my_hero_academia</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/dragon_ball</item>
+        <item>@drawable/hunter_x_hunter</item>
+        <item>@drawable/fullmetal</item>
+        <item>@drawable/death_note</item>
+        <item>@drawable/jujutsu_kaisen</item>
+
+    </integer-array>
+
+    <string-array name="data_desc">
+
+        <item>Gol D. Roger dikenal sebagai Raja Bajak Laut, Orang terkuat dan paling terkenal yang pernah mengarungi Grand Line. Penangkapan dan Eksekusi Roger oleh Pemerintahan Dunia telah membawa perubahan di seluruh dunia. Kata kata terakhir sebelum kematiannya mengungkapkan lokasi dari harta karun terbesar di dunia, One Piece. Inilah awal dari era bajak laut, semua orang bermimpi menemukan One Piece (yang mana menjanjikan harta dan tahta yang tak terhingga jumlahnya), dan tentunya merebut gelar dari orang yang pertama menemukannya, gelar Raja Bajak Laut. Monkey D Luffy.</item>
+        <item>Selama berabad-abad, umat manusia telah diburu oleh predator raksasa misterius yang dikenal sebagai Titan. Tiga tembok perkasa—Wall Maria, Rose, dan Sheena—memberikan kedamaian dan perlindungan bagi umat manusia selama lebih dari seratus tahun. Namun, kedamaian itu hancur ketika Colossal Titan dan Armored Titan muncul dan menghancurkan tembok terluar, Wall Maria. Terpaksa mundur di balik Wall Rose, umat manusia menunggu dengan napas tertahan hingga Titan muncul kembali dan menghancurkan tempat berlindung mereka yang aman sekali lagi.
+
+Di Shingeki no Kyojin Musim 2, Eren Yeager dan yang lainnya dari Korps Pelatihan ke-104 baru saja mulai menjadi anggota penuh Korps Survei. Saat mereka bersiap menghadapi Titan sekali lagi, persiapan mereka terganggu oleh invasi Wall Rose—tetapi semuanya tidak seperti yang terlihat karena lebih banyak misteri terungkap. Saat Korps Survei berlomba untuk menyelamatkan tembok, mereka mengungkap lebih banyak tentang Titan yang menyerang dan rahasia gelap anggota mereka sendiri.</item>
+        <item>Shingeki no Kyojin atau yang lebih dikenal dengan judul internasionalnya, Attack on Titan, adalah sebuah seri manga dan anime Jepang yang sangat populer. Ceritanya berlatar belakang dunia di mana umat manusia hidup di balik tembok-tembok tinggi untuk melindungi diri dari makhluk raksasa pemakan manusia yang disebut Titan.
+
+Cerita berfokus pada Eren Yeager, seorang remaja yang bersumpah untuk membinasakan semua Titan setelah menyaksikan ibunya dimakan oleh Titan di hadapannya. Bersama teman-temannya, Mikasa Ackerman dan Armin Arlert, Eren bergabung dengan Survey Corps, sebuah pasukan elit yang bertugas melawan Titan di luar tembok.
+
+Seiring berjalannya cerita, misteri di balik keberadaan Titan dan asal-usul manusia semakin terungkap. Terdapat intrik politik, pertarungan epik, dan pengorbanan yang mendalam dalam upaya umat manusia untuk bertahan hidup.</item>
+        <item>Demon Slayer: Kimetsu no Yaiba adalah sebuah seri manga dan anime Jepang yang sangat populer. Kisahnya berlatar belakang zaman Taisho di Jepang, di mana manusia hidup berdampingan dengan iblis yang haus darah.
+
+Cerita berfokus pada Tanjiro Kamado, seorang pemuda baik hati yang hidup damai bersama keluarganya. Namun, kebahagiaannya hancur ketika seluruh keluarganya dibantai oleh iblis, kecuali adik perempuannya, Nezuko, yang berubah menjadi iblis.
+
+Didorong oleh tekad untuk mengembalikan Nezuko menjadi manusia dan membalas dendam atas kematian keluarganya, Tanjiro bergabung dengan Korps Pembasmi Iblis. Di sini, ia berlatih keras untuk menjadi pembasmi iblis yang kuat dan mempelajari berbagai teknik pernapasan yang unik untuk mengalahkan iblis.</item>
+        <item>Boruto: Naruto Next Generations adalah sebuah seri manga dan anime yang merupakan sekuel dari seri populer Naruto. Cerita ini berfokus pada generasi penerus para ninja Konoha, dengan Boruto Uzumaki, putra Naruto, sebagai tokoh utamanya.
+
+Berlatar waktu beberapa tahun setelah Perang Dunia Shinobi Keempat, dunia ninja telah memasuki era baru yang lebih damai. Desa Konoha kini telah berkembang pesat, bahkan sudah mulai beradaptasi dengan teknologi modern. Namun, di balik kedamaian itu, ancaman baru mulai muncul.
+
+Boruto, sebagai anak dari Hokage Ketujuh, memiliki kehidupan yang berbeda dari ayahnya. Ia merasa terbebani oleh ekspektasi tinggi yang ditujukan kepadanya dan ingin membuktikan bahwa ia bisa menjadi seorang ninja yang hebat dengan caranya sendiri. Bersama teman-temannya, Sarada Uchiha dan Mitsuki, Boruto menjalani petualangan sebagai ninja muda dan menghadapi berbagai tantangan.</item>
+        <item>My Hero Academia atau yang dikenal juga dengan judul aslinya Boku no Hero Academia adalah sebuah seri manga dan anime Jepang yang sangat populer, bertemakan pahlawan super. Cerita ini mengisahkan tentang sebuah dunia di mana hampir semua orang memiliki kekuatan super yang disebut "Quirk".
+
+Kisah ini berpusat pada Izuku Midoriya, atau yang akrab disapa Deku, seorang anak laki-laki yang lahir tanpa Quirk di dunia yang didominasi oleh para pahlawan super. Meskipun begitu, Deku memiliki impian besar untuk menjadi pahlawan nomor satu seperti idolanya, All Might.
+
+Berkat ketekunan dan semangatnya yang luar biasa, Deku akhirnya mendapatkan kesempatan untuk mewujudkan mimpinya. Ia mendapatkan warisan Quirk paling kuat, One For All, dari All Might. Dengan kekuatan barunya, Deku berjuang untuk masuk ke sekolah pahlawan bergengsi, U.A. High School, dan berlatih keras untuk menjadi pahlawan sejati.</item>
+
+        <item>Naruto Shippuden adalah kelanjutan dari serial anime dan manga populer, Naruto. Jika di Naruto kita melihat petualangan Naruto Uzumaki sebagai seorang ninja muda yang penuh semangat, di Shippuden kita akan melihat Naruto yang telah tumbuh lebih dewasa dan kuat.
+
+Setelah dua tahun berlatih secara intensif, Naruto kembali ke Desa Konoha. Ia bergabung dengan timnya, Tim 7, untuk menghadapi ancaman baru yang lebih besar. Organisasi kriminal Akatsuki menjadi fokus utama dalam cerita Shippuden. Akatsuki adalah kelompok ninja pelarian yang bertujuan menangkap semua Jinchuuriki (orang yang menjadi wadah bagi Bijuu, monster berekor) termasuk Naruto.
+
+Selain itu, Shippuden juga mengungkap lebih banyak tentang masa lalu para karakter, misteri kekuatan ninja, serta konflik antar desa ninja. Naruto dan teman-temannya harus menghadapi berbagai ujian dan pertarungan yang semakin sengit untuk melindungi desa mereka dan mewujudkan impian mereka menjadi seorang Hokage.</item>
+        <item>Dragon Ball adalah sebuah manga dan anime legendaris karya Akira Toriyama yang telah menginspirasi jutaan penggemar di seluruh dunia. Ceritanya mengikuti petualangan Goku, seorang Saiyan yang kuat dengan ekor monyet, dalam perjalanannya menjelajahi dunia, mencari Dragon Ball dan menghadapi berbagai musuh yang kuat.
+
+Secara garis besar, cerita Dragon Ball terbagi menjadi beberapa saga dengan alur yang saling berkaitan. Mulai dari petualangan Goku mencari Dragon Ball bersama Bulma, seorang ilmuwan muda, hingga pertarungan melawan musuh-musuh yang semakin kuat seperti Piccolo, Vegeta, Frieza, Cell, dan Buu.
+
+Setiap saga menghadirkan tantangan baru bagi Goku dan teman-temannya. Mereka harus terus berlatih untuk meningkatkan kekuatan mereka agar dapat melindungi Bumi dari ancaman yang datang.</item>
+        <item>Hunter x Hunter adalah sebuah seri manga dan anime Jepang yang sangat populer, diciptakan oleh Yoshihiro Togashi. Ceritanya berfokus pada petualangan seorang anak laki-laki bernama Gon Freecss yang bercita-cita menjadi seorang Hunter. Hunter adalah profesi yang sangat bergengsi, di mana para pemegang lisensi memiliki kemampuan khusus dan bebas melakukan berbagai hal mulai dari menjelajahi tempat-tempat tersembunyi, mencari harta karun, hingga memburu makhluk-makhluk langka.
+
+Gon memulai petualangannya dengan mengikuti ujian Hunter, sebuah ujian yang sangat sulit dan penuh tantangan. Di sana, ia bertemu dengan teman-teman baru seperti Killua Zoldyck, seorang anak pembunuh yang memiliki kemampuan luar biasa, Leorio Paradinight, seorang calon dokter yang ingin menjadi kaya, dan Kurapika Kurta, seorang pemuda yang ingin membalas dendam atas kematian klannya.
+
+Setelah lulus ujian Hunter, mereka berempat memulai petualangan yang semakin seru dan berbahaya. Mereka menghadapi berbagai macam musuh, menjelajahi dunia yang luas, dan mengungkap misteri-misteri yang tersembunyi.</item>
+        <item>Fullmetal Alchemist adalah sebuah seri manga dan anime Jepang yang sangat populer, dikenal dengan cerita yang kompleks, karakter yang mendalam, dan visual yang memukau. Cerita ini berlatar di dunia alternatif di mana alkimia, sebuah ilmu kuno yang memungkinkan transmutasi materi, telah dikembangkan hingga tingkat yang tinggi.
+
+Cerita berpusat pada dua bersaudara, Edward dan Alphonse Elric, yang mencoba memulihkan tubuh adik mereka yang telah hilang dalam sebuah eksperimen alkimia yang gagal. Dalam upaya mereka, mereka melanggar hukum fundamental alkimia, "Equivalent Exchange" (pertukaran yang setara), yang mengakibatkan Edward kehilangan lengan kanannya dan kaki kirinya, sedangkan Alphonse kehilangan tubuh fisiknya sepenuhnya.
+
+Untuk mengembalikan tubuh Alphonse, Edward mengorbankan lengan kanannya dan mengikat jiwa adiknya pada sebuah baju besi. Mereka kemudian memulai perjalanan untuk mencari Batu Filsuf, sebuah benda legendaris yang konon dapat melanggar hukum alkimia dan memungkinkan mereka untuk mendapatkan kembali semua yang telah hilang.</item>
+        <item>Tentu, saya akan memberikan deskripsi tentang Death Note:
+
+Death Note adalah sebuah manga dan anime Jepang yang sangat populer, dikenal dengan plotnya yang menegangkan dan karakter-karakter yang kompleks. Ceritanya berputar di sekitar seorang siswa SMA jenius bernama Light Yagami yang menemukan sebuah buku catatan misterius bernama Death Note. Buku ini memiliki kekuatan untuk membunuh siapa pun yang namanya ditulis di dalamnya, asalkan penulisnya membayangkan wajah orang tersebut.
+
+Light, yang merasa dunia ini penuh dengan kejahatan, memutuskan untuk menggunakan Death Note untuk menciptakan dunia yang "ideal" tanpa kriminalitas. Dia mulai membunuh para penjahat satu per satu, menjadi sosok misterius yang dikenal sebagai "Kira". Namun, upaya Light untuk membersihkan dunia menarik perhatian seorang detektif jenius bernama L, yang berusaha untuk mengungkap identitas Kira dan menghentikan rencananya.
+
+Pertarungan antara Light dan L menjadi inti dari cerita Death Note. Keduanya saling menguji kecerdasan dan strategi dalam upaya untuk mengalahkan satu sama lain. Seiring berjalannya cerita, muncul berbagai karakter pendukung yang semakin memperumit plot dan menambah dimensi pada cerita.</item>
+
+        <item>Jujutsu Kaisen adalah sebuah seri manga dan anime Jepang yang sangat populer, menggabungkan unsur aksi, supernatural, dan sedikit komedi. Ceritanya berputar di sekitar dunia yang dihuni oleh kutukan (呪い), makhluk menyeramkan yang terlahir dari emosi negatif manusia.
+
+Kisah ini mengikuti petualangan Yuji Itadori, seorang siswa SMA biasa yang hidupnya berubah drastis setelah secara tidak sengaja menelan sebuah jari dari Ryomen Sukuna, salah satu roh kutukan terkuat. Akibatnya, Yuji menjadi wadah bagi Sukuna dan harus bergabung dengan sekolah penyihir jujutsu untuk mengendalikan kekuatan kutukan dalam dirinya dan akhirnya membasmi Sukuna.</item>
+    </string-array>
+
+    <string-array name="data_total_episode">
+        <item>1000+ Episode</item>
+        <item>2 Season</item>
+        <item>5 Season</item>
+        <item>2 Season</item>
+        <item>300+ Episode</item>
+        <item>88 Episode</item>
+        <item>500 Episode</item>
+        <item>600+ Episode</item>
+        <item>148 Episode</item>
+        <item>64 Episode</item>
+        <item>37 Episode</item>
+        <item>24 Episode/2 Season</item>
+    </string-array>
+
+
+</resources>
